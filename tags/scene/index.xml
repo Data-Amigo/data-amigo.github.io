@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scene on Fredrick Muigai</title>
+    <link>https://data-amigo.github.io/tags/scene/</link>
+    <description>Recent content in scene on Fredrick Muigai</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Apr 2023 12:00:00 +0300</lastBuildDate><atom:link href="https://data-amigo.github.io/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Article I: My Journey from Math Prodigy to Data Amigo</title>
+      <link>https://data-amigo.github.io/post/chapter-1/</link>
+      <pubDate>Thu, 06 Apr 2023 12:00:00 +0300</pubDate>
+      
+      <guid>https://data-amigo.github.io/post/chapter-1/</guid>
+      <description>The Emergence of Data Science The world of Data Science is adventurous, intrinsic and futuristic, and its robust abilities have led to remarkable innovations in the current era. An American Mathematician and statistician, John Turkey, first acknowledged data analysis. John Tukey In 1962, he authored a scholarly paper titled &amp;ldquo;Future of Data Analysis&amp;rdquo;. In his book, John Turkey was the first person to explore the world of statistics in the eyes of Data analysis by saying.</description>
+    </item>
+    
+    <item>
+      <title>Chapter IV: Pedaling Forward: Creating an Innovative Bike Rental System with Python </title>
+      <link>https://data-amigo.github.io/post/chapter-4/</link>
+      <pubDate>Thu, 12 Jan 2023 11:14:48 -0400</pubDate>
+      
+      <guid>https://data-amigo.github.io/post/chapter-4/</guid>
+      <description>Bike Your Way to Adventure: Creating a Custom Bike Rental System with Python Introduction Are you a bike enthusiast living in Juja, Kenya? Do you want a convenient and hassle-free way to rent bikes for a leisurely ride or your daily commute? Look no further than our bike rental system project, built from scratch using the power of Python and Object Oriented Programming (OOP). Our system is designed to cater to two main types of users in the area: university students and non-students.</description>
+    </item>
+    
+  </channel>
+</rss>
